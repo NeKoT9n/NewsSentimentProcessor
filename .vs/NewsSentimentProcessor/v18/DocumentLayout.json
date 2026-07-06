@@ -1,0 +1,175 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\NewsSentimentProcessor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{75202569-112A-4C65-AE46-1084333E7B95}|NewsSentimentProcessor.Application\\NewsSentimentProcessor.Application.csproj|d:\\_\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\newssentimentprocessor\\newssentimentprocessor.application\\ollamaprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75202569-112A-4C65-AE46-1084333E7B95}|NewsSentimentProcessor.Application\\NewsSentimentProcessor.Application.csproj|solutionrelative:newssentimentprocessor.application\\ollamaprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75202569-112A-4C65-AE46-1084333E7B95}|NewsSentimentProcessor.Application\\NewsSentimentProcessor.Application.csproj|d:\\_\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\newssentimentprocessor\\newssentimentprocessor.application\\sentimentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75202569-112A-4C65-AE46-1084333E7B95}|NewsSentimentProcessor.Application\\NewsSentimentProcessor.Application.csproj|solutionrelative:newssentimentprocessor.application\\sentimentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2A02F2E-0A06-4D2B-86C6-C6CEE5A68AA2}|Solution Items{E2A02F2E-0A06-4D2B-86C6-C6CEE5A68AA2}|D:\\_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\NewsSentimentProcessor\\compose.yaml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}",
+      "RelativeMoniker": "D:0:0:{E2A02F2E-0A06-4D2B-86C6-C6CEE5A68AA2}|Solution Items{E2A02F2E-0A06-4D2B-86C6-C6CEE5A68AA2}|solutionrelative:compose.yaml||{06C066C6-04A2-4E5D-8202-439FD4234EF1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D8A0AD-DE7D-454E-896E-DCB98825929B}|NewsSentimentProcessor\\NewsSentimentProcessor.csproj|d:\\_\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\newssentimentprocessor\\newssentimentprocessor\\consumers\\newsaddedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D8A0AD-DE7D-454E-896E-DCB98825929B}|NewsSentimentProcessor\\NewsSentimentProcessor.csproj|solutionrelative:newssentimentprocessor\\consumers\\newsaddedconsumer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D8A0AD-DE7D-454E-896E-DCB98825929B}|NewsSentimentProcessor\\NewsSentimentProcessor.csproj|d:\\_\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\newssentimentprocessor\\newssentimentprocessor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C2D8A0AD-DE7D-454E-896E-DCB98825929B}|NewsSentimentProcessor\\NewsSentimentProcessor.csproj|solutionrelative:newssentimentprocessor\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75202569-112A-4C65-AE46-1084333E7B95}|NewsSentimentProcessor.Application\\NewsSentimentProcessor.Application.csproj|d:\\_\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\newssentimentprocessor\\newssentimentprocessor.application\\configurations\\ollamaoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75202569-112A-4C65-AE46-1084333E7B95}|NewsSentimentProcessor.Application\\NewsSentimentProcessor.Application.csproj|solutionrelative:newssentimentprocessor.application\\configurations\\ollamaoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D8A0AD-DE7D-454E-896E-DCB98825929B}|NewsSentimentProcessor\\NewsSentimentProcessor.csproj|d:\\_\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\newssentimentprocessor\\newssentimentprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C2D8A0AD-DE7D-454E-896E-DCB98825929B}|NewsSentimentProcessor\\NewsSentimentProcessor.csproj|solutionrelative:newssentimentprocessor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C2D8A0AD-DE7D-454E-896E-DCB98825929B}|NewsSentimentProcessor\\NewsSentimentProcessor.csproj|d:\\_\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\newssentimentprocessor\\newssentimentprocessor\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C2D8A0AD-DE7D-454E-896E-DCB98825929B}|NewsSentimentProcessor\\NewsSentimentProcessor.csproj|solutionrelative:newssentimentprocessor\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B784F70-7184-4B97-8A03-1ABA5070BE05}|..\\NewsApi\\Shared\\Shared.csproj|d:\\_\u043F\u0440\u043E\u0435\u043A\u0442\u044B\\newsapi\\shared\\shared.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OllamaOptions.cs",
+              "DocumentMoniker": "D:\\_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\NewsSentimentProcessor\\NewsSentimentProcessor.Application\\Configurations\\OllamaOptions.cs",
+              "RelativeDocumentMoniker": "NewsSentimentProcessor.Application\\Configurations\\OllamaOptions.cs",
+              "ToolTip": "D:\\_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\NewsSentimentProcessor\\NewsSentimentProcessor.Application\\Configurations\\OllamaOptions.cs",
+              "RelativeToolTip": "NewsSentimentProcessor.Application\\Configurations\\OllamaOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T10:21:35.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\NewsSentimentProcessor\\NewsSentimentProcessor\\appsettings.json",
+              "RelativeDocumentMoniker": "NewsSentimentProcessor\\appsettings.json",
+              "ToolTip": "D:\\_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\NewsSentimentProcessor\\NewsSentimentProcessor\\appsettings.json",
+              "RelativeToolTip": "NewsSentimentProcessor\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-17T10:18:26.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NewsAddedConsumer.cs",
+              "DocumentMoniker": "D:\\_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\NewsSentimentProcessor\\NewsSentimentProcessor\\Consumers\\NewsAddedConsumer.cs",
+              "RelativeDocumentMoniker": "NewsSentimentProcessor\\Consumers\\NewsAddedConsumer.cs",
+              "ToolTip": "D:\\_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\NewsSentimentProcessor\\NewsSentimentProcessor\\Consumers\\NewsAddedConsumer.cs",
+              "RelativeToolTip": "NewsSentimentProcessor\\Consumers\\NewsAddedConsumer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T09:10:20.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OllamaProvider.cs",
+              "DocumentMoniker": "D:\\_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\NewsSentimentProcessor\\NewsSentimentProcessor.Application\\OllamaProvider.cs",
+              "RelativeDocumentMoniker": "NewsSentimentProcessor.Application\\OllamaProvider.cs",
+              "ToolTip": "D:\\_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\NewsSentimentProcessor\\NewsSentimentProcessor.Application\\OllamaProvider.cs",
+              "RelativeToolTip": "NewsSentimentProcessor.Application\\OllamaProvider.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T08:22:25.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SentimentService.cs",
+              "DocumentMoniker": "D:\\_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\NewsSentimentProcessor\\NewsSentimentProcessor.Application\\SentimentService.cs",
+              "RelativeDocumentMoniker": "NewsSentimentProcessor.Application\\SentimentService.cs",
+              "ToolTip": "D:\\_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\NewsSentimentProcessor\\NewsSentimentProcessor.Application\\SentimentService.cs",
+              "RelativeToolTip": "NewsSentimentProcessor.Application\\SentimentService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-17T08:12:33.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "D:\\_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\NewsSentimentProcessor\\NewsSentimentProcessor\\Dockerfile",
+              "RelativeDocumentMoniker": "NewsSentimentProcessor\\Dockerfile",
+              "ToolTip": "D:\\_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\NewsSentimentProcessor\\NewsSentimentProcessor\\Dockerfile",
+              "RelativeToolTip": "NewsSentimentProcessor\\Dockerfile",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-06-08T16:42:58.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Shared.csproj",
+              "DocumentMoniker": "D:\\_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\NewsApi\\Shared\\Shared.csproj",
+              "RelativeDocumentMoniker": "..\\NewsApi\\Shared\\Shared.csproj",
+              "ToolTip": "D:\\_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\NewsApi\\Shared\\Shared.csproj",
+              "RelativeToolTip": "..\\NewsApi\\Shared\\Shared.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-08T16:40:07.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\NewsSentimentProcessor\\NewsSentimentProcessor\\Program.cs",
+              "RelativeDocumentMoniker": "NewsSentimentProcessor\\Program.cs",
+              "ToolTip": "D:\\_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\NewsSentimentProcessor\\NewsSentimentProcessor\\Program.cs",
+              "RelativeToolTip": "NewsSentimentProcessor\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T16:27:18.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "compose.yaml",
+              "DocumentMoniker": "D:\\_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\NewsSentimentProcessor\\compose.yaml",
+              "RelativeDocumentMoniker": "compose.yaml",
+              "ToolTip": "D:\\_\u041F\u0440\u043E\u0435\u043A\u0442\u044B\\NewsSentimentProcessor\\compose.yaml",
+              "RelativeToolTip": "compose.yaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2026-06-08T16:26:51.306Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

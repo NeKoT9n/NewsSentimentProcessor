@@ -1,0 +1,20 @@
+# This is a generated file. Not intended for manual editing.
+services:
+  news-sentiment-processor:
+    build:
+      context: "D:\\_Проекты\\Back\\NewsSentimentProcessor"
+      dockerfile: "NewsSentimentProcessor/Dockerfile"
+      target: "base"
+    command: []
+    entrypoint:
+    - "dotnet"
+    - "/app/bin/Debug/net10.0/NewsSentimentProcessor.dll"
+    environment:
+      DOTNET_USE_POLLING_FILE_WATCHER: "true"
+    image: "newssentimentprocessor:dev"
+    ports: []
+    volumes:
+    - "D:\\_Проекты\\Back\\NewsSentimentProcessor\\NewsSentimentProcessor:/app:rw"
+    - "D:\\_Проекты\\Back\\NewsSentimentProcessor:/src:rw"
+    - "C:\\Users\\user\\.nuget\\packages:/home/app/.nuget/packages"
+    working_dir: "/app"

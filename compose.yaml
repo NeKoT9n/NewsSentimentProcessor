@@ -1,0 +1,38 @@
+﻿services:
+  news-sentiment-processor:
+    build:
+      context: ../
+      dockerfile: NewsSentimentProcessor/NewsSentimentProcessor/Dockerfile
+    container_name: news-sentiment-processor
+    environment:
+      - MessageBroker__Host=rabbitmq
+      - ASPNETCORE_ENVIRONMENT=Development
+      - Ollama__BaseUrl=http://ollama:11434
+      - Ollama__ModelName=qwen2.5:7b
+    networks:
+      - news-shared-net
+      - default
+    restart: no
+
+  ollama:
+    image: ollama/ollama:latest
+    container_name: ollama_ai
+    environment:
+      - OLLAMA_NUM_PARALLEL=4
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: 1       
+              capabilities: [gpu]
+    volumes:
+      - ollama_data:/root/.ollama
+    restart: unless-stopped
+
+volumes:
+  ollama_data: 
+
+networks:
+  news-shared-net:
+    external: true
